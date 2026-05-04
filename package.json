@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "helmet": "^8.1.0"
+  },
+  "name": "ti323_teste_jest_selerium",
+  "version": "1.0.0",
+  "description": "Repositório para desenvolvimento da disciplina TI323 (CIDC com teste)",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^30.3.0",
+    "jest-junit": "^17.0.0",
+    "supertest": "^7.2.2"
+  },
+  "scripts": {
+    
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaPGomes/TI323_teste_jest_selerium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AnaPGomes/TI323_teste_jest_selerium/issues"
+  },
+  "homepage": "https://github.com/AnaPGomes/TI323_teste_jest_selerium#readme"
+}
