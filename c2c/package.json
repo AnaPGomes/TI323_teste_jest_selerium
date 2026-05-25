@@ -1,0 +1,17 @@
+{
+  "name": "c2c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+    "scripts":{
+    "test": "node testes/base.test.js"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "selenium-webdriver": "^4.44.0"
+  }
+}
